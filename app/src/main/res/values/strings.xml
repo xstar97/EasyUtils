@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">EasyUtils Sample</string>
+
+    <!-- menu -->
+    <string name="action_settings">Settings</string>
+
+    <!-- menu drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_easy_mod_activity">EasyActivityMod</string>
+    <string name="nav_easy_mod_ads">EasyAdsMod</string>
+    <string name="nav_easy_mod_app">EasyAppMod</string>
+    <string name="nav_easy_mod_audio">EasyAudioMod</string>
+    <string name="nav_easy_mod_device">EasyDeviceMod</string>
+    <string name="nav_easy_mod_file">EasyFileMod</string>
+    <string name="nav_easy_mod_locale">EasyLocaleMod</string>
+    <string name="nav_easy_mod_log">EasyLogMod</string>
+    <string name="nav_easy_mod_network">EasyNetworkMod</string>
+    <string name="nav_easy_mod_parse">EasyParseMod</string>
+    <string name="nav_easy_mod_permission">EasyPermissionMod</string>
+    <string name="nav_easy_mod_prefs">EasyPrefsMod</string>
+    <string name="nav_easy_mod_shell">EasyShellMod</string>
+    <string name="nav_easy_mod_social">EasySocialMod</string>
+
+    <!-- Main Fragment -->
+    <string name="main_title">Check out all the examples from the nav drawer!</string>
+
+    <!-- Base Fragment -->
+    <string name="api_list_title">API List</string>
+
+    <!-- EasyActivityMod -->
+    <string-array name="easy_activity_mod_api_titles">
+        <item>Restart</item>
+        <item>Recreate</item>
+    </string-array>
+
+    <!-- EasyAdsMod -->
+    <string-array name="easy_ads_mod_api_titles">
+        <item>Ads Blocked</item>
+    </string-array>
+
+    <!-- EasyAppMod -->
+    <string-array name="easy_app_mod_api_titles">
+        <item>Get App Drawable</item>
+        <item>Is App Installed</item>
+        <item>Is App Enabled</item>
+        <item>App Version Name</item>
+        <item>App Version Code</item>
+        <item>App Package Name</item>
+    </string-array>
+
+    <!-- EasyAudioMod -->
+    <string-array name="easy_audio_mod_api_titles">
+        <item>Play Sound</item>
+        <item>Stop Sound</item>
+    </string-array>
+
+    <!-- EasyDeviceMod -->
+    <string-array name="easy_device_mod_api_titles">
+        <item>X86</item>
+        <item>ARM</item>
+        <item>ARM64</item>
+        <item>SDK INT</item>
+        <item>BASE OS</item>
+        <item>SDK_DEP</item>
+        <item>SUPPORTED ABIS</item>
+        <item>SUPPORTED 64 BIT ABIS</item>
+        <item>SUPPORTED 32 BIT ABIS</item>
+        <item>CPU ABI2</item>
+        <item>CPU ABI</item>
+        <item>MANUFACTURER</item>
+        <item>MODEL</item>
+        <item>BOARD</item>
+        <item>BOOTLOADER</item>
+        <item>BRAND</item>
+        <item>DEVICE</item>
+        <item>DISPLAY</item>
+        <item>FINGERPRINT</item>
+        <item>RADIO_VERSION</item>
+        <item>RADIO_DEP</item>
+        <item>HARDWARE</item>
+        <item>HOST</item>
+        <item>ID</item>
+        <item>PRODUCT</item>
+        <item>TAGS</item>
+        <item>TYPE</item>
+        <item>USER</item>
+        <item>TIME</item>
+    </string-array>
+
+    <!-- EasyFileMod -->
+    <string-array name="easy_file_mod_api_titles">
+        <item>Create Temp File</item>
+        <item>Move File</item>
+        <item>Delete On Exit</item>
+        <item>Delete</item>
+        <item>Delete By Command</item>
+        <item>MkDir</item>
+        <item>MkDirs</item>
+        <item>Is External Storage Writable</item>
+        <item>Is External Storage Readable</item>
+        <item>Get Cache Dir</item>
+    </string-array>
+
+    <!-- EasyLocaleMod -->
+    <string-array name="easy_locale_mod_api_titles">
+        <item>Set Default Locale</item>
+        <item>Set Locale</item>
+        <item>Get Device Language Code</item>
+        <item>Get App Language Code</item>
+    </string-array>
+
+    <!-- EasyLogMod -->
+    <string-array name="easy_log_mod_api_titles">
+        <item>Verbose</item>
+        <item>Debug</item>
+        <item>Info</item>
+        <item>Warn</item>
+        <item>Error</item>
+    </string-array>
+
+    <!-- EasyNetworkMod -->
+    <string-array name="easy_network_mod_api_titles">
+        <item>Is Connected</item>
+        <item>I Wifi Enabled</item>
+        <item>Is BlueTooth Enabled</item>
+    </string-array>
+
+    <!-- EasyParseMod -->
+    <string-array name="easy_parse_mod_api_titles">
+        <item>Parse</item>
+        <item>Is Empty</item>
+        <item>ContainsDigit</item>
+        <item>lastIndexOfChar</item>
+        <item>lastIndexOfString</item>
+        <item>lastIndexOf</item>
+    </string-array>
+
+    <!-- EasyPermissionMod -->
+    <string-array name="easy_permission_mod_api_titles">
+        <item>isPermissionGranted</item>
+    </string-array>
+
+    <!-- EasyPrefsMod -->
+    <string-array name="easy_prefs_mod_api_titles">
+        <item>Get</item>
+        <item>Get All</item>
+        <item>Put</item>
+        <item>Clear Value</item>
+        <item>Clear All</item>
+    </string-array>
+
+    <!-- EasyShellMod -->
+    <string-array name="easy_shell_mod_api_titles">
+        <item>ExecuteProcessCommand</item>
+        <item>ExecuteRunTimeCommand</item>
+    </string-array>
+
+    <!-- EasySocialMod -->
+    <string-array name="easy_social_mod_api_titles">
+        <item>Open Facebook Page</item>
+        <item>Open Facebook Profile</item>
+        <item>Open Facebook Messenger User Chat</item>
+        <item>Open Twitter Profile</item>
+        <item>Open Google Plus Profile</item>
+        <item>Open Google Plus Community</item>
+        <item>Open YouTube Profile</item>
+        <item>Open YouTube Video</item>
+        <item>Open YouTube Channel</item>
+        <item>Open Social App</item>
+        <item>Rate App</item>
+    </string-array>
+
+</resources>

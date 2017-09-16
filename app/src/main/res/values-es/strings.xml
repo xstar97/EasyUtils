@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyUtils Sample</string>
+
+    <string name="action_settings">Ajustes</string>
+</resources>

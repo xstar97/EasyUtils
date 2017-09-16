@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_easy_mod_activity"
+            android:title="@string/nav_easy_mod_activity" />
+        <item
+            android:id="@+id/nav_easy_mod_ads"
+            android:title="@string/nav_easy_mod_ads" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_app"
+            android:title="@string/nav_easy_mod_app" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_audio"
+            android:title="@string/nav_easy_mod_audio" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_device"
+            android:title="@string/nav_easy_mod_device" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_file"
+            android:title="@string/nav_easy_mod_file" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_locale"
+            android:title="@string/nav_easy_mod_locale" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_log"
+            android:title="@string/nav_easy_mod_log" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_network"
+            android:title="@string/nav_easy_mod_network" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_parse"
+            android:title="@string/nav_easy_mod_parse" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_permission"
+            android:title="@string/nav_easy_mod_permission" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_prefs"
+            android:title="@string/nav_easy_mod_prefs" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_shell"
+            android:title="@string/nav_easy_mod_shell" />
+        <item
+            android:id="@+id/nav_nav_easy_mod_social"
+            android:title="@string/nav_easy_mod_social" />
+    </group>
+
+</menu>
